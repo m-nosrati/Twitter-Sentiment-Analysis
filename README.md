@@ -19,13 +19,18 @@ the tweet is positive or negative.
 For this project tweets from customers about various tech firms who manufacture and sell mobiles, computers, laptops, etc. which are available for public use will be used. 
 
 The dataset contains a test and train dataset. Dataset details:
-Test dataset:
+
+# Test dataset:
 
 ID: The id of the tweet (9873)
+
 tweet: the text of the tweet (Most viewed this week)
-Train dataset:
+
+# Train dataset:
 
 ID: The id of the tweet (9873)
+
 label: 0-positive and 1-negative
+
 tweet: the text of the tweet (Most viewed this week)
 source of [dataset](https://www.kaggle.com/sureshmecad/identify-the-sentiments-analytics-vidhya?select=train.csv)

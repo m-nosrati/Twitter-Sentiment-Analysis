@@ -33,6 +33,7 @@ ID: The id of the tweet (9873)
 label: 0-positive and 1-negative
 
 tweet: the text of the tweet (Most viewed this week)
+source of [dataset](https://www.kaggle.com/sureshmecad/identify-the-sentiments-analytics-vidhya?select=train.csv)
 
 # Goal
 
@@ -41,4 +42,4 @@ performance metrics will be used to choose the best performer model to use to cl
 
 
 
-source of [dataset](https://www.kaggle.com/sureshmecad/identify-the-sentiments-analytics-vidhya?select=train.csv)
+

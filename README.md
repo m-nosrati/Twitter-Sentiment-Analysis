@@ -20,13 +20,13 @@ For this project tweets from customers about various tech firms who manufacture 
 
 The dataset contains a test and train dataset. Dataset details:
 
-## Test dataset:
+### Test dataset:
 
 ID: The id of the tweet (9873)
 
 tweet: the text of the tweet (Most viewed this week)
 
-## Train dataset:
+### Train dataset:
 
 ID: The id of the tweet (9873)
 

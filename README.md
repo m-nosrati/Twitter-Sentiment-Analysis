@@ -49,8 +49,12 @@ To pick the best performing model the performance metrics of each model with tra
 
 # Exploratory Data Analysis (EDA)
 
+### The distribution of target variable
 ![The distribution of target variable ](images/eda.png)
 
+### Word cloud of the train set
+
+![]()
 
 
 #

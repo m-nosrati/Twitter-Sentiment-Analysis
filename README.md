@@ -40,15 +40,14 @@ source of [dataset](https://www.kaggle.com/sureshmecad/identify-the-sentiments-a
 Four different machine learning classification models will be used to analyze the text dataset.
 performance metrics will be used to choose the best performer model to use to classify the text as positive or negative. 
 
-# 
+# Method
 Sentiment Analysis is a very frequent term within text classification and is essentially to use natural language processing (quite often referred simply as NLP)+ machine learning to interpret and classify emotions in text information.
 
 Sentiment analysis of the tweets for this project has been done with three models such as basic logistic regression, LSTM, and AutoNLP. 
 To pick the best performing model the performance metrics of each model with train and test datasets has been used. 
 
-# Method
 
-
+# Modeling
 •	logistic regression: logistic regression is one of the most important analytic tools in the social and natural sciences. In natural language processing, logistic regression is the baseline supervised machine learning algorithm for classification and has a very close relationship with neural networks.
 
 •	          To perform a logistic regression after tokenizing, cleaning/preprocessing text dataset such as removing punctuations, emoji’s, stopwords, HTML tags, and lemmatization. The text has been vectorized by using Bag of words and TF-IDF methods and then run the model.

@@ -56,6 +56,8 @@ To pick the best performing model the performance metrics of each model with tra
 
 ### Word cloud of the train set
 
+Common words in train dataset after preprocessing and cleaning for basic logistic regression analysis. 
+
 ![](images/word_cloud.png)
 
 
@@ -68,6 +70,12 @@ To pick the best performing model the performance metrics of each model with tra
 •	 Long Short-Term Memory networks: Long Short-Term Memory networks – usually just called “LSTMs” – are a special kind of RNN, capable of learning long-term dependencies. LSTMs are explicitly designed to avoid the long-term dependency problem. Remembering information for long periods of time is practically their default behavior, not something they struggle to learn! The LSTM model performed after cleaning/ preprocessing, encoding and word embedding the text dataset. 
 
 •   AutoNLP: Auto training and fast deployment for state-of-the-art NLP models. AutoNLP is an automatic way to train, evaluate and deploy state-of-the-art NLP models for different tasks. Using AutoNLP, you can leave all the worries of selecting the best model, fine-tuning the model, or even deploying the models and focus on the broader picture for your project/business. After installing the packages and uploading the dataset it was ready to run the model.
+
+
+# Models Evaluation Table 
+
+![](images/Table.JPG)
+
 
 
 

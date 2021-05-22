@@ -63,9 +63,7 @@ Common words in train dataset after preprocessing and cleaning for basic logist
 
 #
 # Modeling
-•	logistic regression: logistic regression is one of the most important analytic tools in the social and natural sciences. In natural language processing, logistic regression is the baseline supervised machine learning algorithm for classification and has a very close relationship with neural networks.
-
-	         •	To perform a logistic regression after tokenizing, cleaning/preprocessing text dataset such as removing punctuations, emoji’s, stopwords, HTML tags, and lemmatization. The text has been vectorized by using Bag of words and TF-IDF methods and then run the model.
+•	logistic regression: logistic regression is one of the most important analytic tools in the social and natural sciences. In natural language processing, logistic regression is the baseline supervised machine learning algorithm for classification and has a very close relationship with neural network. To perform a logistic regression after tokenizing, cleaning/preprocessing text dataset such as removing punctuations, emoji’s, stopwords, HTML tags, and lemmatization. The text has been vectorized by using Bag of words and TF-IDF methods and then run the model.
 
 •	 Long Short-Term Memory networks: Long Short-Term Memory networks – usually just called “LSTMs” – are a special kind of RNN, capable of learning long-term dependencies. LSTMs are explicitly designed to avoid the long-term dependency problem. Remembering information for long periods of time is practically their default behavior, not something they struggle to learn! The LSTM model performed after cleaning/ preprocessing, encoding and word embedding the text dataset. 
 

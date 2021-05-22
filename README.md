@@ -77,7 +77,19 @@ Common words in train dataset after preprocessing and cleaning for basic logist
 ![](images/Table.JPG)
 
 
+# Recommendation 
 
+The dataset is imbalanced and accuracy in this case will be misleading. 
+
+In case of having false positive rate and false negative rates equally important f1-score would be better metric to compare the models.
+
+Among all four models the difference between train and test metrics is less in AutoNLP. It is safe to say that there is no overfitting problem or it is minimal. 
+
+Implementing AutoNLP is easier and it does not require preprocessing and cleaning the data.
+
+# Conclusion
+
+The AutoNLP model will be the best option to Classify tweets for Sentiment Analysis with the highest and reliable performance metrics. 
 
 
 
